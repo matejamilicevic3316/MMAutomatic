@@ -1,0 +1,15 @@
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\bin\Debug\netcoreapp3.1\CrudAutomaticBusinessLogic.deps.json
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\bin\Debug\netcoreapp3.1\CrudAutomaticBusinessLogic.dll
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\bin\Debug\netcoreapp3.1\CarStoreDatabaseAccess.dll
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\bin\Debug\netcoreapp3.1\CarStoreDatabaseAccess.pdb
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\obj\Debug\netcoreapp3.1\CrudAutomaticBusinessLogic.csprojAssemblyReference.cache
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\obj\Debug\netcoreapp3.1\CrudAutomaticBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\obj\Debug\netcoreapp3.1\CrudAutomaticBusinessLogic.AssemblyInfo.cs
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\obj\Debug\netcoreapp3.1\CrudAutomaticBusinessLogic.csproj.CopyComplete
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\bin\Debug\netcoreapp3.1\CrudAutomaticBusinessLogic.pdb
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\obj\Debug\netcoreapp3.1\CrudAutomaticBusinessLogic.dll
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\obj\Debug\netcoreapp3.1\CrudAutomaticBusinessLogic.pdb
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\bin\Debug\netcoreapp3.1\Extensions.dll
+C:\Users\mateja.milicevic\Desktop\Diplomski\CarStoreDatabaseAccess\DbAutomaticBusinessLogic\bin\Debug\netcoreapp3.1\Extensions.pdb
